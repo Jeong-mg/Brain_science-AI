@@ -1,1 +1,1 @@
-# Brain_science-AI
+# 뇌과학과 인공지능 과제
